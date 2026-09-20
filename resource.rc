@@ -1,0 +1,3 @@
+#include "resource.h"
+
+INTRO_WAV WAVE "resources\\intro.wav"
